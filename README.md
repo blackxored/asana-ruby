@@ -1,6 +1,8 @@
 # Asana
 
-This gem is a simple Ruby wrapper for the Asana REST API. It's based on Ryan Bright's [asana gem](https://github.com/rbright/asana) but it handles a few things differently and it supports more API calls, such as tag handling.
+This gem is a simple Ruby wrapper for the Asana REST API. It's based on Ryan
+Bright's [asana gem](https://github.com/rbright/asana) but it handles a few
+things differently and it supports more API calls, such as tag handling.
 
 It uses
 [ActiveResource][] to provide a simple, familiar interface for accessing
